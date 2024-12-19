@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/payment-form/static/css/main.74429981.css",
+    "main.js": "/payment-form/static/js/main.09ad2616.js",
+    "static/js/453.6599eb49.chunk.js": "/payment-form/static/js/453.6599eb49.chunk.js",
+    "index.html": "/payment-form/index.html",
+    "main.74429981.css.map": "/payment-form/static/css/main.74429981.css.map",
+    "main.09ad2616.js.map": "/payment-form/static/js/main.09ad2616.js.map",
+    "453.6599eb49.chunk.js.map": "/payment-form/static/js/453.6599eb49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74429981.css",
+    "static/js/main.09ad2616.js"
+  ]
+}
