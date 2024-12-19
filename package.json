@@ -49,5 +49,5 @@
   "homepage": "https://vgoosakova.github.io/payment-form",
   "devDependencies": {
     "gh-pages": "^6.2.0"
-  },
+  }
 }
