@@ -1,7 +1,6 @@
 import React, {useState} from 'react';
 import './PaymentForm.css';
 import {Tooltip} from '@mui/material';
-import arrowLeft from 'assets/arrow-left.svg';
 
 type FormData = {
   cardNumber: string;
